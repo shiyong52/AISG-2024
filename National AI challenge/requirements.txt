@@ -1,0 +1,16 @@
+pandas==1.1.5
+seaborn==0.12.2
+numpy==1.23.5
+scipy==1.11.1
+textblob==0.18.0.post0
+google==3.0.0
+google-auth==2.28.1
+google-auth-oauthlib==1.0.0
+google-pasta==0.2.0
+googletrans==4.0.0rc1
+wordcloud==1.9.3
+xgboost==2.0.3
+spacy==3.7.4
+scikit-learn==1.4.1.post1
+scikit-learn-intelex==20230426.121932
+

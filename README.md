@@ -6,7 +6,7 @@ Data Source: https://www.kaggle.com/c/petfinder-adoption-prediction/data
 
 ## File
 
-Submitted Folder Structure:
+<pre> Submitted Folder Structure:
 ├── src 
 │ ├── DataSets
      └── pets_prepared.csv
@@ -19,6 +19,7 @@ Submitted Folder Structure:
 ├── eda.ipynb
 ├── requirements.txt 
 └── run.sh 
+</pre>
 
 Programming language used: Python 3
 Libaries: TensorFlow, NumPy, SciPy, Pandas, Matplotlib, SciKit-Learn
